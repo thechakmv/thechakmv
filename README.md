@@ -18,11 +18,19 @@ I'm currently pursuing a Masters in Embedded & Cyberphysical Systems at UC Irvin
 
 #### ⭐ Featured projects
 
+##### Embedded
 **[Cloud Synced Audio Effects Processor](https://github.com/thechakmv/Cloud-Synced-Audio_effects_Processor)**
 Real-time audio DSP unit on Teensy 4.0 that automatically matches EQ presets to currently playing Spotify track. Architected hardware split between Teensy (DSP, I/O) and ESP-32 (Wi-Fi), achieved 5.8ms round-trip latency, and kept audio timing guarantees while handling network I/O. Built with C++, Teensy 4.0, and Spotify Web API.
 
 **[Smart Tackle Box](https://github.com/thechakmv/smart-tackle-box)**
 Portable ESP-32 sensor unit for temperature, humidity, and pressure logging. Implemented FreeRTOS task isolation, ring-buffer storage, and BLE notifications with zero-loss back-fill on reconnect. Built with C, FreeRTOS, and BLE GATT.
+
+##### Circuits
+**[Dual Stage CMOS Amplifier](https://github.com/thechakmv/)**
+
+
+**[Overdrive/Distortion Guitar Pedal](https://github.com/thechakmv/)**
+
 
 ---
 
