@@ -6,7 +6,8 @@ I'm currently pursuing a Masters in Embedded & Cyberphysical Systems at UC Irvin
 #### 🛠 What I work with
 
 - **Languages:** C++, C, Python, MATLAB, System Verilog, JavaScript, HTML/CSS
-- **Embedded & Hardware:** ESP-32, Teensy 4.0, Arduino, Raspberry Pi, FreeRTOS, Embedded Linux, PlatformIO, I2C, SPI, UART, BLE, ADC/DAC, oscilloscopes, logic analyzers
+- **Hardware:** LTSpice, Cadence Virtuoso, Modelsim, SystemVerilog, KiCAD, AutoCAD
+- **Embedded:** ESP-32, Teensy 4.0, Arduino, Raspberry Pi, FreeRTOS, Embedded Linux, PlatformIO, I2C, SPI, UART, BLE, ADC/DAC, 
 - **ML & DSP:** TensorFlow Lite, NumPy, Pandas, Matplotlib, Scikit-learn, FFT/STFT analysis, neural networks, CNNs
 
 ---
