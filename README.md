@@ -10,12 +10,12 @@ I'm currently pursuing a Masters in Embedded & Cyberphysical Systems at UC Irvin
 - **ML & DSP:** TensorFlow Lite, NumPy, Pandas, Matplotlib, Scikit-learn, FFT/STFT analysis, neural networks, CNNs
 
 ---
-
+<!--
 #### 🚧 Currently working on
 
 - [[Guitar Effects Classifier](https://github.com/thechakmv/guitar-effects-classifier)]
 
-
+-->
 #### ⭐ Featured projects
 
 ##### Embedded
@@ -26,11 +26,10 @@ Real-time audio DSP unit on Teensy 4.0 that automatically matches EQ presets to 
 Portable ESP-32 sensor unit for temperature, humidity, and pressure logging. Implemented FreeRTOS task isolation, ring-buffer storage, and BLE notifications with zero-loss back-fill on reconnect. Built with C, FreeRTOS, and BLE GATT.
 
 ##### Circuits
-**[Dual Stage CMOS Amplifier](https://github.com/thechakmv/)**
+**[Dual Stage CMOS Amplifier](https://github.com/thechakmv/dual-stage-cmos-amp)**
 
 
-**[Overdrive/Distortion Guitar Pedal](https://github.com/thechakmv/)**
-
+**[Overdrive/Distortion Guitar Pedal](https://github.com/thechakmv/-overdrive-distortion-guitar-pedal)**
 
 ---
 
